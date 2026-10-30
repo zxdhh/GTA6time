@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "19d 08h 30m 40s · GTA VI",
+      "hasCanvas": false,
+      "bodyTextLen": 6712,
+      "bodyTextHash": "0a34f88b0946f2ff52a54bbf9746dffeac1f80f5384bb9706855722f7f0b19f5",
+      "bodyTextPrefix": "ROCKSTAR GAMES Marcos Imagens O jogo Edições 15:29:19 BRT Avisar",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "19d 08h 30m 39s · GTA VI",
+      "hasCanvas": false,
+      "bodyTextLen": 6652,
+      "bodyTextHash": "b55d9ce75154fd5795c4fad0c80c2b0a0a42943b53c75dcad66014d9fb9855a1",
+      "bodyTextPrefix": "15:29:20 BRT HORÁRIO DE BRASÍLIA · GMT−3 GTA VI Grand Theft Auto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GTA VI — Contagem de Brasília",
+      "hasCanvas": false,
+      "bodyTextLen": 6479,
+      "bodyTextHash": "a49662335e2ad54fc89cfa4b0bfe839be61b50bd798e150bf02e3d67535f6f3c",
+      "bodyTextPrefix": "ROCKSTAR GAMES Marcos Imagens O jogo Edições --:--:-- BRT Avisar",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GTA VI — Contagem de Brasília",
+      "hasCanvas": false,
+      "bodyTextLen": 6419,
+      "bodyTextHash": "dab5994f7d5ce5fde05b45c2d08105c26c1ba94de0d2f810e5bce1586e9e696c",
+      "bodyTextPrefix": "--:--:-- BRT HORÁRIO DE BRASÍLIA · GMT−3 GTA VI Grand Theft Auto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: title changed (\"19d 08h 30m 40s · GTA VI\" -> \"GTA VI — Contagem de Brasília\")",
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: title changed (\"19d 08h 30m 39s · GTA VI\" -> \"GTA VI — Contagem de Brasília\")",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
